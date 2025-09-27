@@ -1,3 +1,4 @@
 # codigos_uteis
-Arquivo de códigos úteis em Python para praticar.
-Teste de inserção de comentário pelo VSCode (21/09/2025)
+Repositório contendo códigos úteis em Python criado para praticar o uso de git.
+Os códigos registrados aqui são códigos que reuni durante meus estudos para ciência de dados.
+Repositório em construção (eterna).
